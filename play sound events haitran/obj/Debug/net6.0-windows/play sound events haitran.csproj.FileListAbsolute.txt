@@ -1,0 +1,25 @@
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\play sound events haitran.exe
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\play sound events haitran.deps.json
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\play sound events haitran.runtimeconfig.json
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\play sound events haitran.dll
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\play sound events haitran.pdb
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\play sound events haitran.csproj.AssemblyReference.cache
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\play_sound_events_haitran.Form1.resources
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\play sound events haitran.csproj.GenerateResource.cache
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\play sound events haitran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\play sound events haitran.AssemblyInfoInputs.cache
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\play sound events haitran.AssemblyInfo.cs
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\play sound events haitran.csproj.CoreCompileInputs.cache
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\play sound events haitran.csproj.CopyComplete
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\play sound events haitran.dll
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\refint\play sound events haitran.dll
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\play sound events haitran.pdb
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\play sound events haitran.genruntimeconfig.cache
+C:\Users\Cu\source\repos\play sound events haitran\play sound events haitran\obj\Debug\net6.0-windows\ref\play sound events haitran.dll
